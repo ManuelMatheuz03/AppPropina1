@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\AppPropina\AppPropina\AppPropina\bin\Debug\netstandard2.0\AppPropina.deps.json
+C:\Users\user\source\repos\AppPropina\AppPropina\AppPropina\bin\Debug\netstandard2.0\AppPropina.dll
+C:\Users\user\source\repos\AppPropina\AppPropina\AppPropina\bin\Debug\netstandard2.0\AppPropina.pdb
+C:\Users\user\source\repos\AppPropina\AppPropina\AppPropina\obj\Debug\netstandard2.0\AppPropina.csprojAssemblyReference.cache
+C:\Users\user\source\repos\AppPropina\AppPropina\AppPropina\obj\Debug\netstandard2.0\AppPropina.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\AppPropina\AppPropina\AppPropina\obj\Debug\netstandard2.0\AppPropina.App.xaml.g.cs
+C:\Users\user\source\repos\AppPropina\AppPropina\AppPropina\obj\Debug\netstandard2.0\AppPropina.View.MainPage.xaml.g.cs
+C:\Users\user\source\repos\AppPropina\AppPropina\AppPropina\obj\Debug\netstandard2.0\AppPropina.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\AppPropina\AppPropina\AppPropina\obj\Debug\netstandard2.0\AppPropina.AssemblyInfo.cs
+C:\Users\user\source\repos\AppPropina\AppPropina\AppPropina\obj\Debug\netstandard2.0\AppPropina.dll
+C:\Users\user\source\repos\AppPropina\AppPropina\AppPropina\obj\Debug\netstandard2.0\AppPropina.pdb
