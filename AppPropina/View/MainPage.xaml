@@ -52,12 +52,12 @@
                     <StackLayout>
                         <Button Text="Calcular"
                                 x:Name="btnCalcular"
-                                TextColor="Aqua"
+                                TextColor="White"
+                                BackgroundColor="Red"
                                 Command="{Binding CalcularCommand}">
                             
                         </Button>
-                        <Image Source="icon.png"
-                               Scale=".0">
+                        <Image Source="icon.png">
                             
                         </Image>
                     </StackLayout>
